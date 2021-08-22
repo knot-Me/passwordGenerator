@@ -12,14 +12,19 @@ Usage of passwordGenerator for storing targets' passwords without prior mutual c
 It's the END USER'S responsibility to obey all applicable local, state and federal laws. 
 ```
 ```
-Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
+Developers assume NO liability and are NOT responsible for any misuse 
+or damage caused by this program.
 ```
+
+
+
 #1 Pyhton modules used in the program, that you need to download:
  
 1)random   =>  pip install random2   
 2)os	 =>  pip install os-sys   
 3)sys	 =>  pip install os-sys   
 4)time	 =>  pip install python-time
+
 
 
 #2 Usage:
@@ -34,6 +39,8 @@ python3 passwordGenerator
 ```
 In case you run it in root, the file that will be generated will be
 locked to anyone except root
+
+
 
 #3 Explaination:
 ```
