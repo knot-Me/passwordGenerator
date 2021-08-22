@@ -3,7 +3,7 @@
 
 ### Do you want to help me? Have you found some bugs?
 ### Contact me through Github or you can find me at
-	        knotMe.bot@gmail.com
+                  knotMe.bot@gmail.com
 	   
 #### Legal disclaimer:
 ``` passwordGenerator is meant for generate and store passwords that are
