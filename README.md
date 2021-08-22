@@ -6,7 +6,7 @@
                        knotMe.bot@gmail.com
 	   
 #### Legal disclaimer:
-@@TO BE USED FOR EDUCATIONAL PURPOSES ONLY@@
+##TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 ```
 passwordGenerator is meant for generate and store passwords that are self-owned.
 Usage of passwordGenerator for storing targets' passwords without prior mutual consent is ILLEGAL. 
