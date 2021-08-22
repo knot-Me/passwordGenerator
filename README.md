@@ -3,15 +3,15 @@
 
 ### Do you want to help me? Have you found some bugs?
 ### Contact me through Github or you can find me at
-                  knotMe.bot@gmail.com
+                       knotMe.bot@gmail.com
 	   
 #### Legal disclaimer:
 ``` passwordGenerator is meant for generate and store passwords that are
 self-owned. Usage of passwordGenerator for storing targets' passwords without prior mutual consent is illegal. 
-It's the end user's responsibility to obey all applicable local, state and federal laws. 
+It's the END USER'S responsibility to obey all applicable local, state and federal laws. 
 ```
 ```
-Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+Developers assume NO liability and are not responsible for any misuse or damage caused by this program.
 ```
 #1 Pyhton modules used in the program, that you need to download:
  
