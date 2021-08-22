@@ -16,10 +16,10 @@ Developers assume NO liability and are NOT responsible for any misuse or damage 
 ```
 #1 Pyhton modules used in the program, that you need to download:
  
-random   =>  pip install random2
-os	 =>  pip install os-sys
-sys	 =>  pip install os-sys
-time	 =>  pip install python-time
+1)random   =>  pip install random2   
+2)os	 =>  pip install os-sys   
+3)sys	 =>  pip install os-sys   
+4)time	 =>  pip install python-time
 
 
 #2 Usage:
