@@ -3,7 +3,7 @@
 
 ### Do you want to help me? Have you found some bugs?
 ### Contact me through Github or you can find me at
-	    ``` knotMe.bot@gmail.com ```
+	        knotMe.bot@gmail.com
 	   
 #### Legal disclaimer:
 ``` passwordGenerator is meant for generate and store passwords that are
@@ -24,9 +24,12 @@ time	 =>  pip install python-time
 #2 Usage:
 ```
 git clone https://github.com/knot-Me/passwordGenerator.git
+```
+```
 cd passwordGenerator
+```
+```
 python3 passwordGenerator
-
 ```
 In case you run it in root, the file that will be generated will be
 locked to anyone except root
